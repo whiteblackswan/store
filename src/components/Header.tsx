@@ -3,6 +3,9 @@ import Logo from '../assets/Logo.png';
 import Group from '../assets/Group.png';
 import DensityMediumIcon from '@mui/icons-material/DensityMedium';
 import SearchIcon from '@mui/icons-material/Search';
+import '../style/Header.css'
+
+
 
 function Header() {
    return (
